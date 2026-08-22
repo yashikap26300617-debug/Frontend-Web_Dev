@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css work</title>
+    <link rel="stylesheet" href="day6.css"
+</head>
+<body>
+    
+    <nav> 
+        <h2>squarespace</h2>
+        <a href=" ">product</a>
+        <a href=" ">solutions</a>
+        <a href=" ">resources</a>
+    </nav>
+    <h1>
+        create a personalized 
+        website in 1 minute with AI</h1>
+        <p1>built a beautiful website,run your business and, grow your online presence-all in one place </p1>
+    <div> 
+        <button> GET STARTED</button>
+    </div>
+    <p2> start for free.no credit card required.</p2>
+    
+</body>
+</html>
